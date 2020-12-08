@@ -65,10 +65,12 @@ was a network outage. This custom view Animates between a Button and a progress 
 
 ## Demo
 
-Successful run
+Successful run demo
+
 <img src="/demo/clearscorepassdemo.gif" width=250 height=500>
 
-Fail run
+Service Error  demo
+
 <img src="demo/clearscorephoneofflinedemo.gif" width=250 height=500>
 
 - note in this demo I added a handler delay to emulate a proper/slower service call to see the button animation properly
