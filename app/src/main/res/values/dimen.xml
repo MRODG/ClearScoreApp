@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height">72dp</dimen>
+    <dimen name="button_radius">36dp</dimen>
+    <dimen name="button_stroke_width">2.75dp</dimen>
+
+    <dimen name="text_size_h3">20sp</dimen>
+    <dimen name="text_size_score">50sp</dimen>
+    <dimen name="text_size_score_desc">15sp</dimen>
+    <dimen name="line_height_h3">28sp</dimen>
+
+    <dimen name="circle_diameter_1">200dp</dimen>
+
+    <dimen name="margin_m">16dp</dimen>
+    <dimen name="margin_l">24dp</dimen>
+    <dimen name="margin_xl">32dp</dimen>
+</resources>

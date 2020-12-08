@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ClearScoreApp</string>
+    <string name="button_refresh">Refresh</string>
+
+    <string name="score_description_line">Your credit score is</string>
+    <string name="max_score_line">out of %1$d</string>
+
+    <string name="error_title_generic">Something went wrong</string>
+    <string name="error_message_generic">Please try again</string>
+
+    <string name="phone_error_title">No internet connection detected</string>
+    <string name="phone_error_message">Please ensure your phone has an active internet connection and try again.</string>
+
+    <string name="credit_file_not_found_title">Your credit file is not available</string>
+    <string name="credit_file_not_found_message">Please contact support for more help.</string>
+
+    <string name="dialog_button_ok">OK</string>
+
+    <string name="score_very_poor_name">Raise your game</string>
+    <string name="score_poor_name">On the up</string>
+    <string name="score_fair_name">On good ground</string>
+    <string name="score_good_name">Looking bright</string>
+    <string name="score_good_excellent_name">Soaring high</string>
+    <string name="score_undefined_name">Undefined</string>
+</resources>

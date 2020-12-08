@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Text">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Text.H3" parent="Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_h3</item>
+        <item name="lineHeight">@dimen/line_height_h3</item>
+    </style>
+
+    <style name="Text.Score" parent="Text">
+        <item name="android:fontFamily">@font/helvetica_neue_ultralight</item>
+        <item name="android:textSize">@dimen/text_size_score</item>
+        <item name="lineHeight">@dimen/line_height_h3</item>
+    </style>
+
+    <style name="Text.Score.Desc" parent="Text">
+        <item name="android:textSize">@dimen/text_size_score_desc</item>
+        <item name="lineHeight">@dimen/line_height_h3</item>
+    </style>
+
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="animation_extra_short">100</integer>
+    <integer name="animation_long">@android:integer/config_longAnimTime</integer>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scoreInnerLayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_l"
+    android:gravity="center"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Text.Score.Desc"
+        android:gravity="center"
+        android:text="@string/score_description_line" />
+
+    <TextView
+        android:id="@+id/scoreText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Text.Score"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_score"
+        tools:text="327" />
+
+    <TextView
+        android:id="@+id/maxScoreText"
+        android:layout_width="match_parent"
+        style="@style/Text.Score.Desc"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/max_score_line" />
+
+</LinearLayout>
